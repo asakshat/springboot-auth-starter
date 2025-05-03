@@ -52,3 +52,12 @@ JDBC_USER=postgres
 JDBC_PASSWORD=postgres
 
 ```
+
+
+
+### ToDos:
+
+- [ ] Integrate Oauth i.e github, gmail ,etc
+- [ ] Refactor for scalability
+- [ ] Clean up code
+
