@@ -3,7 +3,7 @@
 A spring boot starter project I made so that I don't have to focus much on the authentication side when building other side projects.
 ---
 
-## ✨ Features
+##  Features
 
 - ✅ Spring Boot 3.x
 - ✅ JWT Authentication (Access + Refresh Tokens)
@@ -16,7 +16,7 @@ A spring boot starter project I made so that I don't have to focus much on the a
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```bash
 src/
